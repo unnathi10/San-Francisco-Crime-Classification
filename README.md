@@ -8,3 +8,5 @@ Dataset: San Francisco Crime Dataset (2015). Available from: https://www.kaggle.
 Tools Used: Python, Scikit learn libraries, Matplotlib libraries
 
 Classfier Models: Gradient Boosting, Random Forest, KNN, AdaBoost, XGBoost.
+
+Note: View .ipynb files using nbviewer - https://nbviewer.jupyter.org/
